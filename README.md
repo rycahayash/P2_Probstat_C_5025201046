@@ -111,6 +111,7 @@ Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitianny
 ia mengumpulkan data tiga spesies kucing yaitu kucing oren, kucing hitam dan
 kucing putih dengan panjangnya masing-masing.
 Jika : diketahui dataset https://intip.in/datasetprobstat1
+Dataset : https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/83ab11cf7bdf15708881c12811febe4fad927c94/onewayanova.txt
 H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya
 sama
 Maka Kerjakan atau Carilah:
@@ -152,6 +153,8 @@ yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?<br>
 
 ## NOMOR 5
 Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui pengaruh suhu operasi (100˚C, 125˚C dan 150˚C) dan tiga jenis kaca pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil Eksperimen. Dengan data tersebut:
+
+Dataset : https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/83ab11cf7bdf15708881c12811febe4fad927c94/GTL.csv
 
 ### 5A
 Buatlah plot sederhana untuk visualisasi data<br>
