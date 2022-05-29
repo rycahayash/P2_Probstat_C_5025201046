@@ -129,25 +129,26 @@ lihat apakah ada outlier utama dalam homogenitas varians.<br>
 carilah atau periksalah Homogeneity of variances nya , Berapa nilai p yang
 didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/4b.png"/><br>
 
 ### 4C
 Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
 Grup dan beri nama model tersebut model 1.<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/4b.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/4c_plot.png"/><br>
 
 ### 4D
 Dari Hasil Poin C, Berapakah nilai-p ? , Apa yang dapat Anda simpulkan
 dari H0?<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/4d.png"/><br>
 
 ### 4E
 Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
 yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/4e.png"/><br>
 
 ## NOMOR 5
 Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui pengaruh suhu operasi (100˚C, 125˚C dan 150˚C) dan tiga jenis kaca pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil Eksperimen. Dengan data tersebut:
@@ -155,25 +156,26 @@ Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui p
 ### 5A
 Buatlah plot sederhana untuk visualisasi data<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5a.png"/><br>
 
 ### 5B
 Lakukan uji ANOVA dua arah<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5b.png"/><br>
 
 ### 5C
 Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan (kombinasi kaca pelat muka dan suhu operasi)<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5c.png"/><br>
 
 ### 5D
 Lakukan uji Tukey<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5d_1.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5d_2.png"/><br>
 
 ### 5E
 Gunakan compact letter display untuk menunjukkan perbedaan signifikan antara uji Anova dan uji Tukey<br>
 **Penyelesaian:**<br>
-<img src=""/><br>
-
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/c8c00ba1eff11d666741f03b1393315b1d5f3d58/Screenshot%20Modul%202/5e.png"/><br>
