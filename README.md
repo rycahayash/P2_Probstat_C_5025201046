@@ -105,3 +105,22 @@ dari H0?
 ### 4E
 Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
 yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?
+
+## NOMOR 5
+Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui pengaruh suhu operasi (100˚C, 125˚C dan 150˚C) dan tiga jenis kaca pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil Eksperimen. Dengan data tersebut:
+
+### 5A
+Buatlah plot sederhana untuk visualisasi data
+
+### 5B
+Lakukan uji ANOVA dua arah
+
+### 5C
+Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan (kombinasi kaca pelat muka dan suhu operasi)
+
+### 5D
+Lakukan uji Tukey
+
+### 5E
+Gunakan compact letter display untuk menunjukkan perbedaan signifikan antara uji Anova dan uji Tukey
+
