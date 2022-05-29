@@ -11,7 +11,7 @@ sebanyak 9 responden. Pertama, sebelum melakukan aktivitas 𝐴, peneliti mencat
 kadar saturasi oksigen dari 9 responden tersebut. Kemudian, 9 responden tersebut
 diminta melakukan aktivitas 𝐴. 
 
-Dataset : [LINK GITHUB DATASET]
+Dataset : https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/data_nomor_1.csv
 
 Setelah 15 menit, peneliti tersebut mencatat kembali
 kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9 responden
@@ -21,33 +21,48 @@ responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
 melakukan aktivitas 𝐴 sebanyak 70.
 
 ### 1A
-Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel
-diatas
+Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel diatas
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/1_ReadCSV.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/1a.png"/><br>
 
 ### 1B
-carilah nilai t (p-value)
+carilah nilai t (p-value)<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/1b.png"/><br>
 
 ### 1C
 tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
 dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan
 aktivitas 𝐴 jika diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak ada
 pengaruh yang signifikan secara statistika dalam hal kadar saturasi
-oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”
+oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/1c.png"/><br>
 
 ## NOMOR 2
 Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun.
 Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk
 mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
-23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).
+23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).<br>
+**Penyelesaian:**
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2_InisialisasiVariabel.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2_NilaiKritisDanStatistik.png"/><br>
 
 ### 2A
-Apakah Anda setuju dengan klaim tersebut?
+Apakah Anda setuju dengan klaim tersebut?<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2a.png"/><br>
 
 ### 2B
-Jelaskan maksud dari output yang dihasilkan!
+Jelaskan maksud dari output yang dihasilkan!<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2b.png"/><br>
 
 ### 2C
-Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2c.png"/>
 
 ## NOMOR 3
 Diketahui perusahaan memiliki seorang data analyst ingin memecahkan
