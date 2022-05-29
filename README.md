@@ -34,3 +34,17 @@ aktivitas 𝐴 jika diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak
 pengaruh yang signifikan secara statistika dalam hal kadar saturasi
 oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”
 
+## NOMOR 2
+Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun.
+Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk
+mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
+23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).
+
+### 2A
+Apakah Anda setuju dengan klaim tersebut?
+
+### 2B
+Jelaskan maksud dari output yang dihasilkan!
+
+### 2C
+Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
