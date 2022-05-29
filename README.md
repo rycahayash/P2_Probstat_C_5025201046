@@ -76,3 +76,32 @@ Keputusan
 ### 3F
 Kesimpulan
 
+## NOMOR 4
+Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitiannya
+ia mengumpulkan data tiga spesies kucing yaitu kucing oren, kucing hitam dan
+kucing putih dengan panjangnya masing-masing.
+Jika : diketahui dataset https://intip.in/datasetprobstat1
+H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya
+sama
+Maka Kerjakan atau Carilah:
+
+### 4A
+Buatlah masing masing jenis spesies menjadi 3 subjek "Grup" (grup 1,grup
+2,grup 3). Lalu Gambarkan plot kuantil normal untuk setiap kelompok dan
+lihat apakah ada outlier utama dalam homogenitas varians.
+
+### 4B
+carilah atau periksalah Homogeneity of variances nya , Berapa nilai p yang
+didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?
+
+### 4C
+Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
+Grup dan beri nama model tersebut model 1.
+
+### 4D
+Dari Hasil Poin C, Berapakah nilai-p ? , Apa yang dapat Anda simpulkan
+dari H0?
+
+### 4E
+Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
+yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?
