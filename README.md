@@ -48,3 +48,31 @@ Jelaskan maksud dari output yang dihasilkan!
 
 ### 2C
 Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+
+## NOMOR 3
+Diketahui perusahaan memiliki seorang data analyst ingin memecahkan
+permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya
+didapatkanlah data berikut dari perusahaan saham tersebut.
+
+Dataset : [LINK GITHUB DATASET]
+
+Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
+diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
+rata-ratanya (α= 0.05)? Buatlah :
+### 3A
+H0 dan H1
+
+### 3B
+Hitung Sampel Statistik
+
+### 3C
+Lakukan Uji Statistik (df =2)
+
+### 3D
+Nilai Kritikal
+### 3E
+Keputusan
+
+### 3F
+Kesimpulan
+
