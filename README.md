@@ -45,7 +45,7 @@ Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahu
 Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk
 mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
 23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).<br>
-**Penyelesaian:**
+**Penyelesaian:**<br>
 <img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2_InisialisasiVariabel.png"/><br>
 <img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/8bd10c3008a5115ce6b8e3bf01ad4ec53407d39d/Screenshot%20Modul%202/2_NilaiKritisDanStatistik.png"/><br>
 
@@ -67,29 +67,44 @@ Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!<br>
 ## NOMOR 3
 Diketahui perusahaan memiliki seorang data analyst ingin memecahkan
 permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya
-didapatkanlah data berikut dari perusahaan saham tersebut.
+didapatkanlah data berikut dari perusahaan saham tersebut.<br>
 
-Dataset : [LINK GITHUB DATASET]
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3_soal.png"/><br>
 
 Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
-rata-ratanya (α= 0.05)? Buatlah :
+rata-ratanya (α= 0.05)? Buatlah :<br>
+
 ### 3A
-H0 dan H1
+H0 dan H1<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3_InisialisasiVariabel.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3a.png"/><br>
 
 ### 3B
 Hitung Sampel Statistik
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3b.png"/><br>
 
 ### 3C
 Lakukan Uji Statistik (df =2)
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3c.png"/><br>
 
 ### 3D
-Nilai Kritikal
+Nilai Kritikal<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3c.png"/><br>
+
 ### 3E
-Keputusan
+Keputusan<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3e.png"/><br>
 
 ### 3F
-Kesimpulan
+Kesimpulan<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/3f.png"/><br>
 
 ## NOMOR 4
 Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitiannya
@@ -103,39 +118,62 @@ Maka Kerjakan atau Carilah:
 ### 4A
 Buatlah masing masing jenis spesies menjadi 3 subjek "Grup" (grup 1,grup
 2,grup 3). Lalu Gambarkan plot kuantil normal untuk setiap kelompok dan
-lihat apakah ada outlier utama dalam homogenitas varians.
+lihat apakah ada outlier utama dalam homogenitas varians.<br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/4_Variabel.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/4_Variabel2.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/4a.png"/><br>
+<img src="https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/9b3f99157e46194096d9957ab591eafdc16bf60b/Screenshot%20Modul%202/4a_ggboxplot.png"/><br>
 
 ### 4B
 carilah atau periksalah Homogeneity of variances nya , Berapa nilai p yang
-didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?
+didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 4C
 Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
-Grup dan beri nama model tersebut model 1.
+Grup dan beri nama model tersebut model 1.<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 4D
 Dari Hasil Poin C, Berapakah nilai-p ? , Apa yang dapat Anda simpulkan
-dari H0?
+dari H0?<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 4E
 Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
-yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?
+yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ## NOMOR 5
 Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui pengaruh suhu operasi (100˚C, 125˚C dan 150˚C) dan tiga jenis kaca pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil Eksperimen. Dengan data tersebut:
 
 ### 5A
-Buatlah plot sederhana untuk visualisasi data
+Buatlah plot sederhana untuk visualisasi data<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 5B
-Lakukan uji ANOVA dua arah
+Lakukan uji ANOVA dua arah<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 5C
-Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan (kombinasi kaca pelat muka dan suhu operasi)
+Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan (kombinasi kaca pelat muka dan suhu operasi)<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 5D
-Lakukan uji Tukey
+Lakukan uji Tukey<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
 ### 5E
-Gunakan compact letter display untuk menunjukkan perbedaan signifikan antara uji Anova dan uji Tukey
+Gunakan compact letter display untuk menunjukkan perbedaan signifikan antara uji Anova dan uji Tukey<br>
+**Penyelesaian:**<br>
+<img src=""/><br>
 
