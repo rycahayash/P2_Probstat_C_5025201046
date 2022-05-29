@@ -110,7 +110,7 @@ Kesimpulan<br>
 Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitiannya
 ia mengumpulkan data tiga spesies kucing yaitu kucing oren, kucing hitam dan
 kucing putih dengan panjangnya masing-masing.
-Jika : diketahui dataset https://intip.in/datasetprobstat1
+Jika : diketahui dataset https://intip.in/datasetprobstat1<br>.
 Dataset : https://github.com/rycahayash/P2_Probstat_C_5025201046/blob/83ab11cf7bdf15708881c12811febe4fad927c94/onewayanova.txt
 H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya
 sama
